@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "ambika-mobo",
+    "ambika-vc",
+]
